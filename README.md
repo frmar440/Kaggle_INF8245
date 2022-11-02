@@ -17,7 +17,7 @@ $ pip install -r requirements.txt
 
 ## Kaggle
 
-(Kaggle API)[https://github.com/Kaggle/kaggle-api]
+[Kaggle API](https://github.com/Kaggle/kaggle-api)
 
 List competition files:
 ```
