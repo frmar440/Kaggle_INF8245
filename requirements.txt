@@ -1,1 +1,6 @@
 kaggle
+numpy
+pandas
+matplotlib
+torch
+torchtext
